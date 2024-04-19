@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ForumgApplication<forumg>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.forum.forumg.ForumgApplication",
+      "projectName": "forumg",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

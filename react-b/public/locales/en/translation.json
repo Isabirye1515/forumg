@@ -1,0 +1,9 @@
+{
+    "main":{
+    "id":"identification Number",
+    "firstName":"Sur Name",
+    "lastName":"Christian Name",
+    "amount":"Costs",
+    "category":"Diversity"
+    }
+}

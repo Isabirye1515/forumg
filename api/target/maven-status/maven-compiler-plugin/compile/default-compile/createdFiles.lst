@@ -1,0 +1,9 @@
+com/forum/forumg/ExpenseRestController.class
+com/forum/forumg/ForumgApplication.class
+com/forum/forumg/BookService.class
+com/forum/forumg/ServletInitializer.class
+com/forum/forumg/WebConfig.class
+com/forum/forumg/ExpenseService.class
+com/forum/forumg/Expense.class
+com/forum/forumg/ExpenseRepository.class
+com/forum/forumg/HomeController.class
