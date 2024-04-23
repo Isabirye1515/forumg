@@ -30,7 +30,7 @@ function ExpenseTable() {
 
     const langs = {
         en: { title: "English" },
-        lug: { title: "Luganda" } // Corrected the syntax here
+        lug: { title: "Luganda" } 
     };
 
     return (
