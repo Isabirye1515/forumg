@@ -1,16 +1,16 @@
-#MY FIRST RESTAPI APPLICATION
+# MY FIRST RESTAPI APPLICATION
 This project api is built on spring boot 
 The frontend is built on jsps and react 
 its not dockerised
 And used maven 
-##TO RUN FRONT END
+## TO RUN FRONT END
 1.React 
   Is built using npm 
   hence to run : npm start
 2.Jsp
   Will load automatically on start of backend
 
-##TO RUN FRONTEND
+## TO RUN FRONTEND
 Is built on springboot therefore 
 1.Build 
   mvn clean install
@@ -18,4 +18,4 @@ Is built on springboot therefore
   In the target folder in your terminal run this comand
   $ java -jar forumg-0.0.1-SNAPSHOT
 
-  AM LOOKING FOR CONTRIBUTORS PLEASE REACT TO THIS PROJECT
+  AM LOOKING FOR CONTRIBUTIONS PLEASE REACT TO THIS PROJECT
